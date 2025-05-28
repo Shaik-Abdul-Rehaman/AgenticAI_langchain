@@ -33,3 +33,5 @@ unstructured
 pytube
 numexpr
 huggingface_hub
+fastapi
+sse_starlette
