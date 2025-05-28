@@ -35,3 +35,4 @@ numexpr
 huggingface_hub
 fastapi
 sse_starlette
+transformers
