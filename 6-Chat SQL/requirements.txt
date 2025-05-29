@@ -32,3 +32,4 @@ numexpr
 huggingface_hub
 streamlit
 psycopg2
+openpyxl
